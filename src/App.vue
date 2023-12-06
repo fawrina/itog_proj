@@ -1,14 +1,20 @@
 <template>
   <MenuComponent></MenuComponent>
+  <Section></Section>
+  <Footer></Footer>
 </template>
 
 <script>
 import MenuComponent from './components/MenuComponent.vue'
+import Footer from './components/Footer.vue';
+import Section from './components/Section.vue'
 
 export default {
   name: 'App',
   components: {
-    MenuComponent
+    MenuComponent, 
+    Footer,
+    Section
   }
 }
 </script>

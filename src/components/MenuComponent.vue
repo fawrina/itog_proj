@@ -32,7 +32,7 @@
     padding: 0;
     margin: 0;
     display: flex;
-    background-color: #FD72C1;
+    background-color: #ffb3c6;
     width: 100%;
     justify-content: space-around;
     
@@ -43,7 +43,7 @@
     font-weight: 700;
     padding: 15px;
     cursor: pointer;
-    color: #0900A7;
+    color: #fb6f92;
   }
   
   li:last-child {
